@@ -1,0 +1,7 @@
+Pure Data Montreal Abstractions
+
+The main concept in this library of abstractions is to group the abstractions by their function rather than their author. It is an answer to the disorder in the large amount of abstractions and externals for Pure Data. The library also proposes methods for unifying the usage of GOP (graph-on-parent), audio samples and much more. It is also intended as a wrapper for very useful externals for Pd that are often named badly or not well know.
+
+Pure Data (see http://puredata.info/ ) is designed to offer a wide range of low level objects. That is why we believe that higher level abstractions must be created and standardized for their use by beginners and advanced users as well. This accelerates the learning curve and makes it very fun and fast to use. The algorithms are hidden in the abstractions but are still very easy to read, as an abstraction can be opened and modified.
+
+The library contains abstractions of Thomas O. Fredericks (such as the sample_id format), Alexandre Quessy (such as the Muzaq musical abstractions) and Patrick S. Coulombe (the Lem ongoing audio patches). Even if the library uses the name "Montreal", it is open to the participation of people from anywhere and could even aim to become the standard format for Pd externals and abstractions names, avoiding name clashes and users' confusion. See the discussions on http://puredata.info/dev/PdLibraries to understand a bit further how this represents our suggestion as a solution for the organization of the Pure Data extensions. 
